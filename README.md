@@ -20,18 +20,44 @@
 </div>
 
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 <p>Having graduated with a background in Communications and Strategic Management, I wanted to challenge myself to learn how to code.<br>I enrolled myself in Le Wagon's 9-week intensive Web Development bootcamp - and I haven't looked back since!</p>
 
 <p>I've only just started my journey into the tech field but I'm already blown away by the tech and projects I've been able to accomplish.<p>
 
-<h3 align="center">🔭 I’m currently working on ...</h3>
+<h2 align="center">Education</h2>
+<p>Graduate of Singapore Management University, Bachelor's of Business Management<br>
+
+Graudate of Le Wagon's 9-week full-time Web Development Bootcamp</p>
+
+<h2 align="center">My Toolbox</h2>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqliter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r-lang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>         
+</p>
+
+<h2 align="center">Fields of Interest</h2>
+
+<h2 align="center">🔭 I’m currently working on ...</h2>
 [SoundState](https://www.soundstate.live): A smart playlist generator that uses the sophisticated power of AI to generate a playlist cover image!
 Visit our demo: SoundState
 Demo username: soundstatedemo@gmail.com | Password: SoundStateDemo1160
 
-<h3 align="center">🌱 I’m currently learning ...</h3>
-- Node.js and React
+<h2 align="center">🌱 I’m currently learning ...</h2>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>          
+</p>
 
 
 <!--
