@@ -48,6 +48,12 @@ Graudate of Le Wagon's 9-week full-time Web Development Bootcamp</p>
 </p>
 
 <h2 align="center">Fields of Interest</h2>
+<ul align="center">
+<li>Web Development</li>  
+<li>UI/UX</li> 
+<li>Machine Learning</li> 
+<li>Data Visualisation</li> 
+</ul>
 
 <h2 align="center">🔭 I’m currently working on ...</h2>
 [SoundState](https://www.soundstate.live): A smart playlist generator that uses the sophisticated power of AI to generate a playlist cover image!
