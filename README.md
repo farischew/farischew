@@ -65,6 +65,22 @@ Demo username: soundstatedemo@gmail.com | Password: SoundStateDemo1160
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>          
 </p>
 
+<h2 align="center">💻 GitHub Stats ...</h2>
+<div align="center">
+
+[![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=farischew&theme=transparent)](https://github.com/farischew/github-readme-stats)
+
+</div>  
+  
+<h2 align="center">🎧 Currently listening to ...</h2>
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=farischew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+
+
 
 <!--
 **farischew/farischew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
