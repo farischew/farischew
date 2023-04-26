@@ -68,7 +68,9 @@ Demo username: soundstatedemo@gmail.com | Password: SoundStateDemo1160
 <h2 align="center">💻 GitHub Stats ...</h2>
 <div align="center">
 
-[![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=farischew&theme=transparent)](https://github.com/farischew/github-readme-stats)
+[![Faris's GitHub stats](https://github-readme-stats-coral-zeta-25.vercel.app/api?username=farischew&theme=transparent)](https://github.com/farischew/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-coral-zeta-25.vercel.app/api/top-langs/?username=farischew&layout=compact)](https://github.com/farischew/github-readme-stats)
 
 </div>  
   
