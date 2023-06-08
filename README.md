@@ -142,9 +142,17 @@ Graudate of Le Wagon's 9-week full-time Web Development Bootcamp</p>
 </ul>
 
 <h2 align="center">🔭 I’m currently working on ...</h2>
-[SoundState](https://www.soundstate.live): A smart playlist generator that uses the sophisticated power of AI to generate a playlist cover image!
-Visit our demo: SoundState
-Demo username: soundstatedemo@gmail.com | Password: SoundStateDemo1160
+
+SoundState: A smart playlist generator that uses the sophisticated power of AI to generate a playlist cover image!
+- Visit our [Repo](https://github.com/weepotty/soundstate) for more info!
+- Visit our demo: [SoundState](https://www.soundstate.live/)
+- Demo username: soundstatedemo@gmail.com | Password: SoundStateDemo1160
+
+
+Reactagram: A clone of Instagram using React!
+- Visit my [Repo](https://github.com/farischew/reactagram) for more info!
+- Visit my demo: [Reactagram](https://reactagram-gray.vercel.app/)
+- Demo username: testuser@test.com | Password: 12345678
 
 <h2 align="center">🌱 I’m currently learning ...</h2>
 <p align="center">
